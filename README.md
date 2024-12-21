@@ -1,5 +1,10 @@
 # Shop API 仕様書
 
+ライブラリを記載した`requirements`ファイルを作成。
+```shell
+pip freeze > requirements.txt
+```
+
 ## 概要
 シンプルなショップアイテム管理のためのAPI仕様書です。
 
